@@ -1,0 +1,27 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "Learning webpack, tutorial: https://www.sitepoint.com/beginners-guide-webpack-module-bundling/",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidjost/webpack-learn.git"
+  },
+  "keywords": [
+    "webpack",
+    "bundler"
+  ],
+  "author": "David Jost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidjost/webpack-learn/issues"
+  },
+  "homepage": "https://github.com/davidjost/webpack-learn#readme",
+  "devDependencies": {
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.2"
+  }
+}
